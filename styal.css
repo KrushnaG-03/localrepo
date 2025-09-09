@@ -1,0 +1,23 @@
+/* styal.css */
+
+/* Example: Add color to HTML text elements */
+body {
+    color: #333; /* Default text color */
+}
+
+h1, h2, h3 {
+    color: #0077cc; /* Headings in blue */
+}
+
+p {
+    color: #444444; /* Paragraphs in dark gray */
+}
+
+a {
+    color: #e91e63; /* Links in pink */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff5722; /* Links on hover in orange */
+}
